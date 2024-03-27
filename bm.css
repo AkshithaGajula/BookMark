@@ -1,0 +1,32 @@
+.formEl {
+    background-color: white;
+    margin-top: 10px;
+}
+
+.cont1 {
+    background-color: #cbcfc8;
+    border-radius: 15px;
+}
+
+.maincont {
+    background-color: #0b0a78;
+}
+
+h3 {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+button {
+    color: white;
+    background-color: #05044a;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+p {
+    color: red;
+}
